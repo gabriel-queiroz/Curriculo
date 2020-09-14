@@ -78,6 +78,6 @@ contato - 83 99939-4567
 
 ## Formação:
 
-**Estácio de Sá, João Pessoa - Pb**
+**Universidade Estácio de Sá, João Pessoa - Pb**
 
 - Analise e Desenvolvimento de Sistemas, 02/2016 - 06/2018
