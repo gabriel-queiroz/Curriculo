@@ -14,7 +14,7 @@ contato - 83 99939-4567
 
 ---
 
-## **Resumo**: Apaixonado por tecnologia, entusiasta por JavaScript e seus frameworks (React-Native, ReactJS e NodeJs). Trabalhando com JavaScript desde 2018 atuando como desenvolvedor front-end. Também tenho conhecimentos de tecnologias de backend com Java como Spring Framework em projetos de estudos.
+## **Resumo**: Apaixonado por tecnologia, entusiasta por JavaScript e seus frameworks (React-Native, ReactJS e NodeJs). Trabalhando com JavaScript desde 2018 atuando como desenvolvedor front-end. Também tenho conhecimentos de tecnologias de backend com Java utilizando Spring Framework em projetos de estudos.
 
 ---
 
@@ -28,7 +28,7 @@ contato - 83 99939-4567
 - Desenvolvimento de API`S GraphQl utilizando Apollo Server(Mysql, Redis).
 - Utilizando Workflow GitFlow para versionamento de códigos com git.
 
-  **Engenheiro de Software Júnior**: Phoebus Tecnologia _11/2018 - 09/2019_
+**Engenheiro de Software Júnior**: Phoebus Tecnologia _11/2018 - 09/2019_
 
 - Desenvolvimento de aplicações para POS(maquineta de cartão de crédito) utilizando tecnologias particulares da empresa;
 - Desenvolvimento de SDK em java Android para criar integrações entre aplicações de pagamento com aplicativos React-Native;
@@ -48,8 +48,8 @@ contato - 83 99939-4567
 
 **Linguagems de Programação**:
 
-    - JavaScript: Trabalho há cerca de 3 anos.
-    - Java: Boas noções da linguagem.
+- JavaScript: Trabalho há cerca de 3 anos.
+- Java: Boas noções da linguagem.
 
 **Front-End**:
 
@@ -78,6 +78,6 @@ contato - 83 99939-4567
 
 ## Formação:
 
-**Universidade Estácio de Sá, João Pessoa - Pb**
+**Universidade Estácio de Sá, João Pessoa - PB**
 
-- Analise e Desenvolvimento de Sistemas, 02/2016 - 06/2018
+- Análise e Desenvolvimento de Sistemas, 02/2016 - 06/2018
