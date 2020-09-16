@@ -30,9 +30,9 @@ contato - 83 99939-4567
 
 **Engenheiro de Software Júnior**: Phoebus Tecnologia _11/2018 - 09/2019_
 
-- Desenvolvimento de aplicações para POS(maquineta de cartão de crédito) utilizando tecnologias particulares da empresa;
-- Desenvolvimento de SDK em java Android para criar integrações entre aplicações de pagamento com aplicativos React-Native;
-- Atuando como Tech-Lead React-Native auxiliando time no aprendizagem do React-Native;
+- Desenvolvimento de aplicações para POS(maquineta de cartão de crédito) utilizando tecnologias particulares da empresa.
+- Desenvolvimento de SDK em java Android para criar integrações entre aplicações de pagamento com aplicativos React-Native.
+- Atuando como Tech-Lead React-Native auxiliando time no aprendizagem do React-Native.
 - Desenvolvimento de Aplicativos React-Native();
 - Deploy to play store and apple store.
 
@@ -54,8 +54,8 @@ contato - 83 99939-4567
 **Front-End**:
 
 - HTML5, CSS3, Sass, FlexBox, Grid Layout, Design Responsivo.
-- JavaScript/ES+, ReactJs(Redux, Styled Components, Jest, RTL),
-- GraphQL, Apollo Client,
+- JavaScript/ES+, ReactJs(Redux, Styled Components, Jest, RTL).
+- GraphQL, Apollo Client.
 - Angular, NGRX.
 
 **Mobile**
@@ -66,9 +66,9 @@ contato - 83 99939-4567
 
 - Flutter: Conhecimentos básicos.
 
-**Back-End**: Node (Express, NestJs, Apollo Server), conhecimentos básicos de criação de api`s utilizando Java(Spring Framework)
+**Back-End**: Node (Express, NestJs, Apollo Server), conhecimentos básicos de criação de api`s utilizando Java(Spring Framework).
 
-**Controle de Versionamento**: GIT
+**Controle de Versionamento**: GIT.
 
 **Databases**: SQL(Postgres, MySql),NoSql(MongoDB).
 
@@ -80,4 +80,4 @@ contato - 83 99939-4567
 
 **Universidade Estácio de Sá, João Pessoa - PB**
 
-- Análise e Desenvolvimento de Sistemas, 02/2016 - 06/2018
+- Análise e Desenvolvimento de Sistemas, 02/2016 - 06/2018.
